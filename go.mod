@@ -1,5 +1,5 @@
 module github.com/tyler-smith/go-bip39
 
-go 1.14
+go 1.26.0
 
-require golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
+require golang.org/x/crypto v0.58.0
